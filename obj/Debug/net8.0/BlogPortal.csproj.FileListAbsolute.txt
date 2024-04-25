@@ -144,3 +144,4 @@ C:\Users\danyl\Desktop\CP-1\BlogPortal\obj\Debug\net8.0\refint\BlogPortal.dll
 C:\Users\danyl\Desktop\CP-1\BlogPortal\obj\Debug\net8.0\BlogPortal.pdb
 C:\Users\danyl\Desktop\CP-1\BlogPortal\obj\Debug\net8.0\BlogPortal.genruntimeconfig.cache
 C:\Users\danyl\Desktop\CP-1\BlogPortal\obj\Debug\net8.0\ref\BlogPortal.dll
+C:\Users\danyl\Desktop\CP-1\BlogPortal\obj\Debug\net8.0\BlogPortal.sourcelink.json
